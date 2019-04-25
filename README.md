@@ -1,2 +1,0 @@
-# polling_app
-pollstar
